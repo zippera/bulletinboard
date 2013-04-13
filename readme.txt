@@ -1,3 +1,5 @@
+Bulletin Board
+
 A simple bulletin board created by PHP.
 
 Developing tool:WAMP.
